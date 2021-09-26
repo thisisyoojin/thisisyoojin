@@ -38,16 +38,13 @@ All projects are written in Python.
 * Basic NLP
 
 
-## Kaggle competitions
-
-[Santander](https://github.com/thisisyoojin/)
-> This is Kaggle competition
-* The
-
-
 ## Theory
 
-[Linear model from scratch](https://github.com/thisisyoojin/Linear-models-from-scratch)
+[Linear models from scratch](https://github.com/thisisyoojin/Linear-models-from-scratch)
 > As a part of AiCore's fellowship course, I built linear regression and logistic regression from scratch.
 * Adds regularisation(L1/L2)
 * Gridsearch from scratch
+
+[Deep learning models from scratch](https://github.com/thisisyoojin/Deep-learning-models-from-scratch)
+> As a part of AiCore's fellowship course, I built linear regression and logistic regression from scratch.
+* Adds regularisation(L1/L2)
