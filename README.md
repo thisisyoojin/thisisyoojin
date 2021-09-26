@@ -6,7 +6,3 @@ I am passionate on analysing data and creating business value. This page is the 
 2. Feature Engineering from unconstructed data(image/text)with NN
 3. Comparing model performance with MLflow
 4. Presentation files can be found in the repo.
-
-- [Lost pet alarm API](https://github.com/thisisyoojin/)</br>
-1. Data Pipeline
-2. Fast API
