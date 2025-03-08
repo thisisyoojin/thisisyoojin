@@ -12,7 +12,7 @@ This page is the overview of projects I have developed. It includes a short desc
 - [Automated Webapp Testing](https://github.com/thisisyoojin/automated-webapp-testing)</br>
 \# Javascript \# node.js
 
-This project is framework for testing web application. UI can be tested with Cypress and API can be tested with Newman(Postman) library
+  This project is framework for testing web application. UI can be tested with Cypress and API can be tested with Newman(Postman) library
 
 - [Lost Pet Alarms](https://github.com/thisisyoojin/lost-pets-alarms)</br>
 \# ETL pipeline &nbsp;\#data_engineering &nbsp;\#search_engine
