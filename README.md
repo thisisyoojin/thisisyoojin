@@ -4,10 +4,10 @@ I love solving puzzles in the real world. That's how I started learning software
 
 This page is the overview of projects I have developed. It includes a short description for each project and if you want to know more, please visit the repository by clicking the link.
 
-- [SPA for python developers](https://github.com/thisisyoojin/SPA-in-python)</br>
+- [Inventory Tracker App](https://github.com/thisisyoojin/inventory-tracker)</br>
 \#django  &nbsp;\#htmx &nbsp;\#SPA
 
-  The project is designed for Python developers who don't want to learn front-end frameworks. The goal is to build a simple inventory tracker application with Django, htmx, and tailwind CSS.
+  The project is designed for Python developers who don't want to learn front-end frameworks. The goal is to build a simple inventory tracker application with Django and htmx.
 
 - [Automated Webapp Testing](https://github.com/thisisyoojin/automated-webapp-testing)</br>
 \# Javascript \# node.js
